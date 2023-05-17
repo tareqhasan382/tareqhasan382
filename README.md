@@ -1,4 +1,4 @@
-### Hi there 👋, This is Tareq Hasan
+### Hi there ☺, This is Tareq Hasan
 #### I am full-stack Web applications-developer 
 ![I am full-stack Web applications-developer ](https://media.licdn.com/dms/image/C5616AQFkOrFmitoO4Q/profile-displaybackgroundimage-shrink_350_1400/0/1647310552749?e=1689811200&v=beta&t=3D--7I3u1NtVxDgRT3vMXGWJIxqAdVdc0Hg8eouzEaQ)
 
