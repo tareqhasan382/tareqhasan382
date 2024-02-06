@@ -1,7 +1,7 @@
 <h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="Hello_Im_Tareq_Hasan__0"></a>Hello, I’m Tareq Hasan 👋</h2>
-<p class="has-line-data" data-line-start="2" data-line-end="3">I’m a passionate and enthusiastic full-stack developer currently pursuing my studies. I love working with cutting-edge technologies to build scalable and efficient web applications. Below is a glimpse of the technologies I work with:</p>
+<p class="has-line-data" data-line-start="2" data-line-end="3">I’m a passionate and enthusiastic App and Web developer currently pursuing my studies. I love working with cutting-edge technologies to build scalable and efficient web applications. Below is a glimpse of the technologies I work with::</p>
 <h2 class="code-line" data-line-start=4 data-line-end=5 ><a id="_FrontEnd_Skills_4"></a>🚀 Front-End Skills:</h2>
-<pre><code>TypeScript , React.js , Next.js , Redux , React Hooks , React router dom , 
+<pre><code>TypeScript , React.js , React Native , Next.js , Redux , React Hooks , React router dom , 
 Axios , Tailwind CSS , REST API , Firebase , JSON Web Token (JWT) .
 </code></pre>
 <h2 class="code-line" data-line-start=9 data-line-end=10 ><a id="_BackEnd_Skills_9"></a>💻 Back-End Skills:</h2>
