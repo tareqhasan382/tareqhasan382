@@ -89,19 +89,21 @@ I've shipped across the full stack: crafting responsive UIs, designing robust RE
 
 ---
 
+### 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/tareq-hasan-b5668b217)
+- [Portfolio](https://tareq-hasan-portfolio.netlify.app/)
+- [Upwork](https://www.upwork.com/freelancers/~01c2b33ce1b959911c?mp_source=share/)
+
+---
+
+### 🌱 Continuously Learning
+
+I'm continuously learning and focusing on improving my skills.
+
+Thanks for stopping by! Let's connect and build amazing things together. 😊
+
 <div align="center">
-
-<h2 class="code-line" data-line-start=26 data-line-end=27 ><a id="_Connect_with_Me_26"></a>🌐 Connect with Me</h2>
-<ul>
-<li class="has-line-data" data-line-start="28" data-line-end="29"><a href="https://www.linkedin.com/in/tareq-hasan-b5668b217">LinkedIn</a></li>
-<li class="has-line-data" data-line-start="30" data-line-end="31"><a href="https://tareq-hasan-portfolio.netlify.app/">Portfolio</a></li>
-<li class="has-line-data" data-line-start="30" data-line-end="31"><a href="https://www.upwork.com/freelancers/~01c2b33ce1b959911c?mp_source=share/">Upwork</a></li>
-</ul>
-<h2 class="code-line" data-line-start=34 data-line-end=35 ><a id="_Currently_Learning_34"></a>🌱 Currently Learning</h2>
-<p class="has-line-data" data-line-start="36" data-line-end="37">I’m currently focusing on improving my skills.</p>
-<p class="has-line-data" data-line-start="38" data-line-end="39">Thanks for stopping by! Let’s connect and build amazing things together. 😊</p>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
 </div>
