@@ -20,13 +20,13 @@ MongoDB , JSON Web Token (JWT) , Husky , GraphQL .
 <li class="has-line-data" data-line-start="20" data-line-end="21">🔭 I’m currently a student, honing my skills in web development.</li>
 <li class="has-line-data" data-line-start="21" data-line-end="22">🌱 I’m constantly learning and exploring new technologies.</li>
 <li class="has-line-data" data-line-start="22" data-line-end="23">👯 I’m looking to collaborate on interesting projects and contribute to the developer community.</li>
-<li class="has-line-data" data-line-start="23" data-line-end="24">📫 How to reach me: <a href="mailto:tareqhasan21100@gmail.com">tareqhasan21100@gmail.com</a></li>
+<li class="has-line-data" data-line-start="23" data-line-end="24">📫 How to reach me: <a href="mailto:tareqhasan382@gmail.com">tareqhasan382@gmail.com</a></li>
 </ul>
 <h2 class="code-line" data-line-start=26 data-line-end=27 ><a id="_Connect_with_Me_26"></a>🌐 Connect with Me</h2>
 <ul>
 <li class="has-line-data" data-line-start="28" data-line-end="29"><a href="https://www.linkedin.com/in/tareq-hasan-b5668b217">LinkedIn</a></li>
-<li class="has-line-data" data-line-start="29" data-line-end="30"><a href="your-twitter-profile">Twitter</a></li>
-<li class="has-line-data" data-line-start="30" data-line-end="31"><a href="https://nextjs-portfolio-tareq-hasan.vercel.app/">Portfolio</a></li>
+<li class="has-line-data" data-line-start="30" data-line-end="31"><a href="https://tareq-hasan-portfolio.netlify.app/">Portfolio</a></li>
+<li class="has-line-data" data-line-start="30" data-line-end="31"><a href="https://www.upwork.com/freelancers/~01c2b33ce1b959911c?mp_source=share/">Upwork</a></li>
 </ul>
 <h2 class="code-line" data-line-start=34 data-line-end=35 ><a id="_Currently_Learning_34"></a>🌱 Currently Learning</h2>
 <p class="has-line-data" data-line-start="36" data-line-end="37">I’m currently focusing on improving my skills.</p>
