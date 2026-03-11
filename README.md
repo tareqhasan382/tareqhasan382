@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=tareqhasan382&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=tareqhasan382&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS"/> -->
 
 </div>
 
@@ -78,10 +78,10 @@ I've shipped across the full stack: crafting responsive UIs, designing robust RE
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tareqhasan382&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tareqhasan382&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" height="170"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tareqhasan382&theme=midnight-purple&hide_border=true"/>
