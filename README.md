@@ -25,7 +25,7 @@
 
 ### 👋 Hey, I'm Tareq
 
-I'm a **Full-Stack Engineer** with **3+ years** of experience turning complex problems into clean, scalable solutions. I build production-grade web applications — from real-time systems to multi-tenant SaaS platforms — with a sharp focus on architecture, performance, and developer experience.
+I'm a **Full-Stack Engineer** with experience turning complex problems into clean, scalable solutions. I build production-grade web applications — from real-time systems to multi-tenant SaaS platforms — with a sharp focus on architecture, performance, and developer experience.
 
 I've shipped across the full stack: crafting responsive UIs, designing robust REST APIs, optimizing database queries, and deploying containerized services to AWS. I don't just write code — I take ownership.
 
@@ -96,12 +96,17 @@ I've shipped across the full stack: crafting responsive UIs, designing robust RE
 - [Upwork](https://www.upwork.com/freelancers/~01c2b33ce1b959911c?mp_source=share/)
 
 ---
+## 🚀 Currently Focused On
 
-### 🌱 Continuously Learning
+- Building scalable SaaS applications
+- Backend Engineering with Node.js, NestJS, and Python.
+- React & Next.js Frontend Development
+- System Design & Microservices
+- Docker, CI/CD & Cloud Deployment
+- AI-powered application development
 
-I'm continuously learning and focusing on improving my skills.
-
-Thanks for stopping by! Let's connect and build amazing things together. 😊
+Always learning, always building, and always improving.
+Let's connect and build amazing things together. 😊
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
